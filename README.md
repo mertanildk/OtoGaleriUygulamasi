@@ -1,1 +1,2 @@
-# OtoGaleriUygulaması
+# OtoGaleriUygulamasi #
+Master.Pdf e Göre Klonlanmıştır.
